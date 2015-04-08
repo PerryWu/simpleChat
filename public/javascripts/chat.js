@@ -1,4 +1,5 @@
 var Chat = function(socket) {
+	var nickName;
 	this.socket = socket;
 };
 
